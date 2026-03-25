@@ -1,5 +1,6 @@
 # HtMetadataDecrypt
-simple metadata repair tool i made while working on my crackproof unpacker\
+simple metadata repair tool i made while working on my crackproof unpacker
+
 games this has been tested on:
 * Umamusume: Pretty Derby (Steam, global)
 
